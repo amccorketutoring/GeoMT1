@@ -2,38 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://amccorketutoring.github.io/GeoMT1/</loc>
-         <lastmod>2025-04-04</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://amccorketutoring.github.io/GeoMT1/changelog/</loc>
-         <lastmod>2025-04-04</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://amccorketutoring.github.io/GeoMT1/common/</loc>
-         <lastmod>2025-04-04</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://amccorketutoring.github.io/GeoMT1/contributing/</loc>
-         <lastmod>2025-04-04</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://amccorketutoring.github.io/GeoMT1/faq/</loc>
-         <lastmod>2025-04-04</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://amccorketutoring.github.io/GeoMT1/geomt1/</loc>
-         <lastmod>2025-04-04</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://amccorketutoring.github.io/GeoMT1/installation/</loc>
-         <lastmod>2025-04-04</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://amccorketutoring.github.io/GeoMT1/usage/</loc>
-         <lastmod>2025-04-04</lastmod>
+         <lastmod>2025-04-07</lastmod>
+    </url>
+    <url>
+         <loc>https://amccorketutoring.github.io/GeoMT1/examples/demo_split_map/</loc>
+         <lastmod>2025-04-07</lastmod>
     </url>
     <url>
          <loc>https://amccorketutoring.github.io/GeoMT1/examples/intro/</loc>
-         <lastmod>2025-04-04</lastmod>
+         <lastmod>2025-04-07</lastmod>
     </url>
 </urlset>
