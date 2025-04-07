@@ -81,6 +81,7 @@ nav:
     - Report Issues: https://github.com/amccorketutoring/GeoMT1/issues
     - Examples:
         - examples/intro.ipynb
+        - examples/demo_split_map.ipynb
     - API Reference:
           - geomt1 module: geomt1.md
           - common module: common.md
