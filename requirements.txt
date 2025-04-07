@@ -1,1 +1,5 @@
 numpy
+mkdocs
+mkdocs-material
+mkdocs-jupyter
+folium
