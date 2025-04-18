@@ -1,5 +1,5 @@
-numpy
-mkdocs
-mkdocs-material
-mkdocs-jupyter
 folium
+mkdocs
+mkdocs-jupyter
+mkdocs-material
+numpy

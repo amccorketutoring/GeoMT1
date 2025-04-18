@@ -5,6 +5,7 @@ bump-my-version
 click
 codespell
 flake8
+folium
 
 ipykernel
 livereload
@@ -27,4 +28,3 @@ sphinx
 twine
 watchdog
 wheel
-folium
