@@ -1,6 +1,13 @@
-
 folium
+ipyleaflet
+geopandas
+numpy
+
+# For documentation generation
 mkdocs
 mkdocs-jupyter
 mkdocs-material
-numpy
+
+# Optional: for version bumping
+bump-my-version
+
