@@ -2,10 +2,9 @@
 
 """Tests for `geomt1` package."""
 
-
 import unittest
-
-from geomt1 import geomt1
+from geomt1.leaflet_map import LeafletMap
+from geomt1.folium_map import FoliumMap
 
 
 class TestGeomt1(unittest.TestCase):
