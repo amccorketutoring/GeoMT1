@@ -1,13 +1,13 @@
+
+# Optional: for version bumping
+bump-my-version
 folium
-ipyleaflet
 geopandas
-numpy
+ipyleaflet
 
 # For documentation generation
 mkdocs
 mkdocs-jupyter
 mkdocs-material
-
-# Optional: for version bumping
-bump-my-version
+numpy
 
